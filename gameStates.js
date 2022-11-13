@@ -17,6 +17,7 @@ function preload() {
     superScript = loadFont('assets/SUPERSCR.TTF');
 }
 
+
 // Create Canvas
 function setup() {
     createCanvas(windowWidth, windowHeight)
