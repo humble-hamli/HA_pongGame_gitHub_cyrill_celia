@@ -1,11 +1,14 @@
 let x;
 let y;
+
 let speedX = -2;
 let speedY = 5;
+
 let d = 100;
 let gameState = 0;
 let gameStartTime = 0;
 let gameDuration = 5;
+
 let fontSize = 40;
 let hasGameStarted = false;
 let b /* Seitenabstand "boarder"*/
@@ -52,7 +55,6 @@ function draw() {
     } 
   
        /*let ball bounce frome side bare left or right*/ /*funktioniert noch nicht. any idea?*/
-  
 
 }
 
